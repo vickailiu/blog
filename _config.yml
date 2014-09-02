@@ -6,6 +6,8 @@ highlighter:	pygments
 permalink:	/blog/:title
 
 # Setup
+baseurl: /blog
+
 title:		Thinny
 tagline:	'blog'
 description:	'My personal blog.'
@@ -39,14 +41,14 @@ social:
   - icon:	feed
     url:	http://camporez.com/atom.xml
     desc:	Subscribe to my feed
-    
+
 menu:
   - title:	Home
     url:	/
-    
+
   - title:	About
     url:	/about
-    
+
 copyright:
   author:	Camporez
   url:		http://camporez.com
